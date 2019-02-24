@@ -8,3 +8,5 @@ Red
 Orange 
 Purple
 Green
+Yelow
+Indingo
